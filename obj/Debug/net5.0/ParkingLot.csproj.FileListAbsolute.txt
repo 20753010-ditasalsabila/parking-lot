@@ -1,0 +1,5 @@
+D:\ENIGMA\Test\ParkingLot\obj\Debug\net5.0\ParkingLot.csproj.AssemblyReference.cache
+D:\ENIGMA\Test\ParkingLot\obj\Debug\net5.0\ParkingLot.GeneratedMSBuildEditorConfig.editorconfig
+D:\ENIGMA\Test\ParkingLot\obj\Debug\net5.0\ParkingLot.AssemblyInfoInputs.cache
+D:\ENIGMA\Test\ParkingLot\obj\Debug\net5.0\ParkingLot.AssemblyInfo.cs
+D:\ENIGMA\Test\ParkingLot\obj\Debug\net5.0\ParkingLot.csproj.CoreCompileInputs.cache
